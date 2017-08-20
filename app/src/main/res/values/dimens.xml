@@ -1,0 +1,20 @@
+<resources>
+    <dimen name="dimen_menu_top_padding">0dp</dimen>
+    <dimen name="profile_data_sheet_view_height">100dp</dimen>
+    <dimen name="table_item_side_margin">14dp</dimen>
+    <dimen name="dimen_bottom_navigation_height">60dp</dimen>
+    <dimen name="dimen_bottom_navigation_padding_offset">70dp</dimen>
+
+    <dimen name="padding_general">10dp</dimen>
+    <dimen name="padding_bigger">15dp</dimen>
+
+    <dimen name="margin_smallest">5dp</dimen>
+    <dimen name="margin_general">15dp</dimen>
+
+    <!-- Custom elements dimens -->
+    <dimen name="custom_radius_tab_button_container">25dp</dimen>
+
+    <dimen name="custom_radius_button">2dp</dimen>
+    <dimen name="custom_radius_button_bigger">5dp</dimen>
+
+</resources>
